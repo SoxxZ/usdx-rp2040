@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "*.tcc": "c",
+        "cmath": "c",
+        "complex": "c",
+        "numeric": "c",
+        "ratio": "c",
+        "cinttypes": "c",
+        "cstdlib": "c",
+        "math.h": "c",
+        "stdio.h": "c",
+        "complex.h": "c",
+        "stdlib.h": "c",
+        "tusb.h": "c",
+        "time.h": "c",
+        "cstddef": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
+    }
+}
